@@ -1,11 +1,11 @@
-<!--这个是仓库基本情况卡片-->
+<!--这个是仓库基本情况卡片，风格切换看这边:https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
 <div align="center"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=CodeDuang&hide_title=true&hide_border=true&theme=ambient_gradient&show_icons=true" /> 
 </div>
 
-<!--这个是仓库编程语言情况-->
+<!--这个是仓库编程语言情况,风格切换看这边:https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
 <div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDuang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDuang&hide_title=true&hide_border=true&layout=compact&theme=ambient_gradient" /> 
 </div>
 
 <!--
