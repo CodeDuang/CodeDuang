@@ -9,9 +9,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDuang&hide_title=true&hide_border=true&layout=compact&theme=vue-dark" /> 
 </div>
 
+<!--过去31天github活动情况-->
+<div align="center"> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=CodeDuang&theme=vue-dark" /> 
+</div>
+
+
 <!--来访用户数，实时更新-->
 <div align="center"> 
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> 
+  <img src="https://visitor-badge.glitch.me/badge?page_id=CodeDuang" /> 
 </div>
 
 <!--
