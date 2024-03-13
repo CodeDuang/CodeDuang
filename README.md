@@ -1,9 +1,12 @@
+<!--这个是仓库基本情况卡片-->
 <div align="center"> 
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=CodeDuang&hide_title=true&hide_border=true&theme=ambient_gradient&show_icons=true" /> 
 </div>
 
-
-
+<!--这个是仓库编程语言情况-->
+<div align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeDuang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
+</div>
 
 <!--
 **CodeDuang/CodeDuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
