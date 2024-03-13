@@ -11,7 +11,7 @@
 
 <!--过去31天github活动情况-->
 <div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=CodeDuang&theme=vue-dark" /> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=CodeDuang&theme=xcode" /> 
 </div>
 
 
