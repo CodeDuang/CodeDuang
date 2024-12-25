@@ -3,7 +3,7 @@
 <!--滚动显示一句话-->
 <h1 align="center"> 
   <a href="https://sunguoqi.com/"> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Github首页建设中，请期待。。。!&center=true&size=27"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello  World!;Github首页建设中，请期待。。。!&center=true&size=27"> 
   </a> 
 </h1>
 
