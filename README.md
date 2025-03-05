@@ -1,5 +1,5 @@
 ## (｡･∀･)ﾉﾞ嗨! :wave::smiley:
-<img align="right" alt="GIF" src="https://i0.hdslb.com/bfs/article/29fcb60a50e65dc5aff4597f26a355f9913d2cc5.gif@1012w_1012h.avif" />
+<img align="right" width="35%" alt="GIF" src="https://i0.hdslb.com/bfs/article/29fcb60a50e65dc5aff4597f26a355f9913d2cc5.gif@1012w_1012h.avif" />
 ### 这里是言辰寸心
 
 - 23级计算机专业研究生. & 开源爱好者预备役.
