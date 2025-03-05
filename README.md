@@ -11,13 +11,17 @@
 
 ### 🛠 技术规划
 
-- Frontend📱 &#160; ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
+- 前端📱 &#160; ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
-- Backend💻 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=FastAPI&logo=FastAPI)
+- 后端💻 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
 
-- ‌DevOps🛠️ &#160; ![gitlab](https://img.shields.io/badge/-gitlab-333333?style=flat&logo=gitlab)
+- 语言✍️ &#160; ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![cpp](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cpp)
+![go](https://img.shields.io/badge/-go-333333?style=flat&logo=go)
+
+- ‌开发工具🛠️ &#160; ![gitlab](https://img.shields.io/badge/-gitlab-333333?style=flat&logo=gitlab)
 ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
