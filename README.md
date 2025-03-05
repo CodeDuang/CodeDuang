@@ -1,7 +1,7 @@
-## (｡･∀･)ﾉﾞ嗨! :wave::smiley:
+## (｡･∀･)ﾉﾞ嗨! :smiley:
 <img align="right" width="35%" alt="GIF" src="https://github.com/CodeDuang/CodeDuang/blob/main/cat.gif" />
 
-### 这里是言辰寸心
+### 👋🏻 这里是言辰寸心
 
 - 23级计算机专业研究生. & 开源爱好者预备役.
 - 🌱 目前在四川成都上学.
@@ -21,7 +21,7 @@
 ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
-### 我的仓库
+### 📚 我的仓库
 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CodeDuang&show_icons=true&hide_border=true" />
