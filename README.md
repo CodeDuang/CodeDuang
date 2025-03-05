@@ -1,5 +1,5 @@
 ## (｡･∀･)ﾉﾞ嗨! :smiley:
-<img align="right" width="35%" alt="GIF" src="https://github.com/CodeDuang/CodeDuang/blob/main/cat.gif" />
+<img align="right" width="40%" alt="GIF" src="https://github.com/CodeDuang/CodeDuang/blob/main/cat.gif" />
 
 ### 👋🏻 这里是言辰寸心
 
@@ -25,6 +25,8 @@
 ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
+<p align="right">您是第<img src="https://profile-counter.glitch.me/all-smile/count.svg" />个访问者</p>
+
 ### 📚 我的仓库
 
 <p>
@@ -34,7 +36,6 @@
 </a>
 </p>
 
-<p>你是第<img src="https://profile-counter.glitch.me/all-smile/count.svg" />个访问者</p>
 
 
 
