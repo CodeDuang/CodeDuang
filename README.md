@@ -8,7 +8,7 @@
 - 💬 对我的项目有疑问?欢迎联系:  [codexie@qq.com](mailto:codexie@qq.com)
 - ⭐ 这是我喜欢的链接,分享给你😘:  [writerside文档编写和管理平台](https://www.jetbrains.com/writerside/) 、[无心note8pro刷机](https://www.coolapk.com/u/3430069) or [52pojie](https://www.52pojie.cn/)
 - ⚡ 感兴趣的领域: RAG+向量数据库📁、加密通信📞、多模态小样本学习🤖
-
+- 📄 我的博客or技术文档: [言辰寸心文档](https://codeduang.github.io/)
 ### 🛠 技术规划
 
 - 前端📱 &#160; ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
