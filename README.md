@@ -30,7 +30,7 @@
 
 ### 📚 我的项目仓库
 
-face_recognition_app_by_insightface_and_faiss ：人脸身份识别的项目，支持录取人脸，人脸识别，对比数据库人脸信息，删除数据库人脸等功能。
+ - **face_recognition_app_by_insightface_and_faiss** ：人脸身份识别的项目，支持录取人脸，人脸识别，对比数据库人脸信息，删除数据库人脸等功能。
 
 
 
