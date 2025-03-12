@@ -3,7 +3,7 @@
 
 ### 👋🏻 这里是言辰寸心
 
-- 23级计算机专业研究生. & 开源爱好者预备役.
+- 26届毕业的计算机专业研究生. & 开源爱好者预备役.
 - 🌱 目前在四川成都上学.
 - 💬 对我的项目有疑问?欢迎联系:  [codexie@qq.com](mailto:codexie@qq.com)
 - ⭐ 这是我喜欢的链接,分享给你😘:  [writerside文档编写和管理平台](https://www.jetbrains.com/writerside/) 、[无心note8pro刷机](https://www.coolapk.com/u/3430069) or [52pojie](https://www.52pojie.cn/)
