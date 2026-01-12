@@ -7,7 +7,7 @@
 - 🌱 目前在四川成都上学.
 - 💬 对我的项目有疑问?欢迎联系:  [codexie@qq.com](mailto:codexie@qq.com)
 - ⭐ 这是我喜欢的链接,分享给你😘:  [writerside文档编写和管理平台](https://www.jetbrains.com/writerside/) 、[无心note8pro刷机](https://www.coolapk.com/u/3430069) or [52pojie](https://www.52pojie.cn/)
-- ⚡ 感兴趣的领域: RAG+向量数据库📁、加密通信📞、多模态小样本学习🤖
+- ⚡ 感兴趣的领域: RAG+向量数据库📁、加密通信📞、多模态小样本学习🤖、路径规划（navigation导航）🧭
 - 📄 我的博客or技术文档: [言辰寸心文档](https://codeduang.github.io/)
 ### 🛠 技术规划
 
@@ -17,6 +17,7 @@
 - 后端💻 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
+![ROS](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=ROS)
 
 - 语言✍️ &#160; ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![cpp](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cpp)
