@@ -28,6 +28,7 @@
 ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
 <p align="right">您是第<img src="https://profile-counter.glitch.me/all-smile/count.svg" />个访问者</p>
+![Github Views](https://views.igorkowalczyk.dev/api/badge/CodeDuang)
 
 ### 📚 我的项目仓库
 
