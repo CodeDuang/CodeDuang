@@ -27,8 +27,8 @@
 ![docker](https://img.shields.io/badge/-docker-333333?style=flat&logo=docker)
 ![linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
-<p align="right">您是第<img src="https://profile-counter.glitch.me/all-smile/count.svg" />个访问者</p>
-![Github Views](https://views.igorkowalczyk.dev/api/badge/CodeDuang)
+<p align="right">近期访问量：<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FCodeDuang%2Fgithub-visitors-badge"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCodeDuang%2Fgithub-visitors-badge&countColor=%23ff8a65" /></a></p>
+
 
 ### 📚 我的项目仓库
 
