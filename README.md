@@ -17,7 +17,7 @@
 - 后端💻 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=FastAPI)
 ![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=Nginx)
-![ROS](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=ROS)
+![ROS](https://img.shields.io/badge/-ROS-333333?style=flat&logo=ROS)
 
 - 语言✍️ &#160; ![python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![cpp](https://img.shields.io/badge/-cpp-333333?style=flat&logo=cpp)
